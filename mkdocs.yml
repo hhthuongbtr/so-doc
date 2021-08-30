@@ -1,0 +1,86 @@
+##START: Django
+site_dir: 'docs/static/mkdocs_build'
+## END: Django
+
+site_name: 'GIO Document'
+site_description: 'GIO - Game Infrastructure and Operation Document'
+site_url: 'https://docs.mto.zing.vn'
+docs_dir: 'mkdocs'
+#google_analytics: ['UA-xxxxxxxxx-x', 'ejemplo.com']
+
+plugins:
+  - search
+  - pdf-export:
+      verbose: true
+      media_type: print
+      enabled_if_env: ENABLE_PDF_EXPORT
+      theme_handler_path: theme-handler.py
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #logo: assets/gt-logo.png
+  #favicon: assets/gt-logo.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+  palette:
+    #primary: blue grey
+    #accent: indigo
+    - media: "(prefers-color-scheme: light)"
+      primary: blue grey
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: blue grey
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+# Copyright
+copyright: 'Maintained by the Game Infrastructure and Operation</br>powered by Django, MkDocs and Material for MkDocs'
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  # - pymdownx.emoji:
+      # emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+nav:
+  - Trang chủ: index.md
+  - Giới thiệu:
+    - Bắt đầu: about.md
+  - Staff only: staff-only.md

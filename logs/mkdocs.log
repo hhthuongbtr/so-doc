@@ -1,0 +1,713 @@
+mkdocs: date: 2021-08-26 10:46:18,621 - console - p2970 /root/django2.0/so_docs/docs/views.py:30 - serverity: ERROR - message: Sorry, no numbers below zero
+mkdocs: date: 2021-08-26 10:46:18,622 - console - p2970 /root/django2.0/so_docs/docs/views.py:31 - serverity: WARNING - message: path 
+mkdocs: date: 2021-08-26 10:46:18,623 - console - p2970 /root/django2.0/so_docs/docs/views.py:32 - serverity: WARNING - message: document_root docs/static/mkdocs_build/
+mkdocs: date: 2021-08-26 10:46:18,624 - console - p2970 /root/django2.0/so_docs/docs/views.py:33 - serverity: WARNING - message: document_root index.html
+mkdocs: date: 2021-08-26 10:46:19,128 - console - p2970 /root/django2.0/so_docs/docs/views.py:30 - serverity: ERROR - message: Sorry, no numbers below zero
+mkdocs: date: 2021-08-26 10:46:19,130 - console - p2970 /root/django2.0/so_docs/docs/views.py:31 - serverity: WARNING - message: path favicon.ico
+mkdocs: date: 2021-08-26 10:46:19,131 - console - p2970 /root/django2.0/so_docs/docs/views.py:32 - serverity: WARNING - message: document_root docs/static/mkdocs_build
+mkdocs: date: 2021-08-26 10:46:19,132 - console - p2970 /root/django2.0/so_docs/docs/views.py:33 - serverity: WARNING - message: document_root favicon.ico
+mkdocs: date: 2021-08-27 03:34:14,354 - console - p1305 /root/django2.0/so_docs/docs/views.py:33 - serverity: ERROR - message: "/root/django2.0/so_docs/docs/static/mkdocs_build/robots.txt" does not exist
+mkdocs: date: 2021-08-27 03:34:14,355 - console - p1305 /root/django2.0/so_docs/docs/views.py:34 - serverity: WARNING - message: path robots.txt
+mkdocs: date: 2021-08-27 03:34:14,355 - console - p1305 /root/django2.0/so_docs/docs/views.py:35 - serverity: WARNING - message: document_root docs/static/mkdocs_build
+mkdocs: date: 2021-08-27 03:34:14,355 - console - p1305 /root/django2.0/so_docs/docs/views.py:36 - serverity: WARNING - message: document_root robots.txt
+mkdocs: date: 2021-08-27 03:34:14,966 - console - p1305 /root/django2.0/so_docs/docs/views.py:33 - serverity: ERROR - message: "/root/django2.0/so_docs/docs/static/mkdocs_build/favicon.ico" does not exist
+mkdocs: date: 2021-08-27 03:34:14,966 - console - p1305 /root/django2.0/so_docs/docs/views.py:34 - serverity: WARNING - message: path favicon.ico
+mkdocs: date: 2021-08-27 03:34:14,966 - console - p1305 /root/django2.0/so_docs/docs/views.py:35 - serverity: WARNING - message: document_root docs/static/mkdocs_build
+mkdocs: date: 2021-08-27 03:34:14,966 - console - p1305 /root/django2.0/so_docs/docs/views.py:36 - serverity: WARNING - message: document_root favicon.ico
+mkdocs: date: 2021-08-27 03:35:22,275 - console - p1305 /root/django2.0/so_docs/docs/views.py:33 - serverity: ERROR - message: "/root/django2.0/so_docs/docs/static/mkdocs_build/robots.txt" does not exist
+mkdocs: date: 2021-08-27 03:35:22,275 - console - p1305 /root/django2.0/so_docs/docs/views.py:34 - serverity: WARNING - message: path robots.txt
+mkdocs: date: 2021-08-27 03:35:22,276 - console - p1305 /root/django2.0/so_docs/docs/views.py:35 - serverity: WARNING - message: document_root docs/static/mkdocs_build
+mkdocs: date: 2021-08-27 03:35:22,276 - console - p1305 /root/django2.0/so_docs/docs/views.py:36 - serverity: WARNING - message: document_root robots.txt
+mkdocs: date: 2021-08-27 03:35:22,664 - console - p1305 /root/django2.0/so_docs/docs/views.py:33 - serverity: ERROR - message: "/root/django2.0/so_docs/docs/static/mkdocs_build/favicon.ico" does not exist
+mkdocs: date: 2021-08-27 03:35:22,664 - console - p1305 /root/django2.0/so_docs/docs/views.py:34 - serverity: WARNING - message: path favicon.ico
+mkdocs: date: 2021-08-27 03:35:22,664 - console - p1305 /root/django2.0/so_docs/docs/views.py:35 - serverity: WARNING - message: document_root docs/static/mkdocs_build
+mkdocs: date: 2021-08-27 03:35:22,665 - console - p1305 /root/django2.0/so_docs/docs/views.py:36 - serverity: WARNING - message: document_root favicon.ico
+mkdocs: date: 2021-08-27 03:45:32,548 - console - p1362 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: robots.txt
+mkdocs: date: 2021-08-27 03:45:33,827 - console - p1362 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: robots.txt
+mkdocs: date: 2021-08-27 03:46:08,068 - console - p1362 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: 646846846
+mkdocs: date: 2021-08-27 04:04:58,398 - console - p1410 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: ssss
+mkdocs: date: 2021-08-27 06:58:28,707 - django.utils.autoreload - p1606 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:02:03,384 - django.utils.autoreload - p1641 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:10:11,391 - django.utils.autoreload - p1691 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:10:20,453 - django.request - p1691 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 7, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 8, in MyCASBackend
+    def authenticate(self, request: HttpRequest, ticket: str, service: str) -> Optional[User]:
+NameError: name 'HttpRequest' is not defined
+mkdocs: date: 2021-08-27 07:10:21,100 - django.request - p1691 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 7, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 8, in MyCASBackend
+    def authenticate(self, request: HttpRequest, ticket: str, service: str) -> Optional[User]:
+NameError: name 'HttpRequest' is not defined
+mkdocs: date: 2021-08-27 07:12:56,785 - django.utils.autoreload - p1699 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:13:25,167 - django.request - p1699 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: WARNING - message: Forbidden (Permission denied): /accounts/login/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 165, in get
+    raise PermissionDenied(_('Login failed.'))
+django.core.exceptions.PermissionDenied: Login failed.
+mkdocs: date: 2021-08-27 07:14:21,285 - django.request - p1699 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: WARNING - message: Forbidden (Permission denied): /accounts/login/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 165, in get
+    raise PermissionDenied(_('Login failed.'))
+django.core.exceptions.PermissionDenied: Login failed.
+mkdocs: date: 2021-08-27 07:15:31,611 - django.utils.autoreload - p1720 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:19:26,893 - django.utils.autoreload - p1738 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:19:33,007 - django.request - p1738 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 7, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 23, in MyCASBackend
+    request: HttpRequest,
+NameError: name 'HttpRequest' is not defined
+mkdocs: date: 2021-08-27 07:19:34,092 - django.request - p1738 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 7, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 23, in MyCASBackend
+    request: HttpRequest,
+NameError: name 'HttpRequest' is not defined
+mkdocs: date: 2021-08-27 07:20:25,313 - django.utils.autoreload - p1746 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:20:30,499 - django.request - p1746 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 8, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 26, in MyCASBackend
+    attributes: Mapping[str, str]) -> bool:
+NameError: name 'Mapping' is not defined
+mkdocs: date: 2021-08-27 07:20:31,438 - django.request - p1746 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 8, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 26, in MyCASBackend
+    attributes: Mapping[str, str]) -> bool:
+NameError: name 'Mapping' is not defined
+mkdocs: date: 2021-08-27 07:21:02,021 - django.utils.autoreload - p1754 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:34:49,693 - django.utils.autoreload - p1792 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:35:00,618 - django.request - p1792 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 38
+    except DoesNotExist, e:
+                       ^
+SyntaxError: invalid syntax
+mkdocs: date: 2021-08-27 07:35:01,265 - django.request - p1792 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 38
+    except DoesNotExist, e:
+                       ^
+SyntaxError: invalid syntax
+mkdocs: date: 2021-08-27 07:35:45,096 - django.utils.autoreload - p1800 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:37:02,152 - django.utils.autoreload - p1821 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:39:48,200 - django.utils.autoreload - p1845 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:39:56,547 - django.request - p1845 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 9, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 10, in MyCASBackend
+    def configure_user(self, user: User) -> User:
+NameError: name 'User' is not defined
+mkdocs: date: 2021-08-27 07:39:57,060 - django.request - p1845 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 9, in <module>
+    class MyCASBackend(CASBackend):
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 10, in MyCASBackend
+    def configure_user(self, user: User) -> User:
+NameError: name 'User' is not defined
+mkdocs: date: 2021-08-27 07:40:31,622 - django.utils.autoreload - p1853 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:43:47,528 - django.utils.autoreload - p1883 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:45:30,445 - django.utils.autoreload - p1904 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:46:23,496 - django.utils.autoreload - p1926 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 07:56:33,613 - django.utils.autoreload - p1957 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:15:08,271 - django.utils.autoreload - p1997 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:22:27,725 - django.utils.autoreload - p2020 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:23:44,603 - django.utils.autoreload - p2049 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:23:48,451 - django.request - p2049 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 41
+    except Exception as e:
+         ^
+SyntaxError: invalid syntax
+mkdocs: date: 2021-08-27 08:23:48,961 - django.request - p2049 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 41
+    except Exception as e:
+         ^
+SyntaxError: invalid syntax
+mkdocs: date: 2021-08-27 08:24:19,561 - django.utils.autoreload - p2058 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:24:19,793 - console - p2058 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: favicon.ico
+mkdocs: date: 2021-08-27 08:26:43,807 - django.utils.autoreload - p2080 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:28:29,854 - django.utils.autoreload - p2101 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:44:16,449 - django.utils.autoreload - p2146 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 08:44:34,118 - django.request - p2146 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 125, in get
+    request=request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 73, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/backends.py", line 36, in authenticate
+    reject = self.bad_attributes_reject(request, username, attributes)
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 37, in bad_attributes_reject
+    cas_profile = json.loads(cas_profile)
+UnboundLocalError: local variable 'cas_profile' referenced before assignment
+mkdocs: date: 2021-08-27 08:45:32,673 - django.utils.autoreload - p2163 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:01:39,905 - django.utils.autoreload - p2200 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:05:36,586 - django.utils.autoreload - p2235 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:07:29,046 - django.utils.autoreload - p2257 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:25:31,135 - django.utils.autoreload - p2296 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:27:54,514 - django.utils.autoreload - p2321 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:29:52,117 - django.utils.autoreload - p2345 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:30:01,972 - django.request - p2345 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /accounts/logout/
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django_cas_ng/views.py", line 195, in get
+    auth_logout(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 143, in logout
+    if not getattr(user, 'is_authenticated', True):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 60
+    uuuuuuuuuuuuuuuuu
+                    ^
+IndentationError: unexpected unindent
+mkdocs: date: 2021-08-27 16:30:02,520 - django.request - p2345 /root/django2.0/lib64/python3.6/site-packages/django/utils/log.py:228 - serverity: ERROR - message: Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 20, in _wrapped_view
+    if test_func(request.user):
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/decorators.py", line 44, in <lambda>
+    lambda u: u.is_authenticated,
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 188, in get_user
+    backend = load_backend(backend_path)
+  File "/root/django2.0/lib64/python3.6/site-packages/django/contrib/auth/__init__.py", line 21, in load_backend
+    return import_string(path)()
+  File "/root/django2.0/lib64/python3.6/site-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib64/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/django2.0/so_docs/so_docs/backends.py", line 60
+    uuuuuuuuuuuuuuuuu
+                    ^
+IndentationError: unexpected unindent
+mkdocs: date: 2021-08-27 16:30:18,464 - django.utils.autoreload - p2353 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:35:31,474 - django.utils.autoreload - p2377 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:39:10,538 - django.utils.autoreload - p2399 /root/django2.0/lib64/python3.6/site-packages/django/utils/autoreload.py:597 - serverity: INFO - message: Watching for file changes with StatReloader
+mkdocs: date: 2021-08-27 16:39:18,991 - console - p2399 /root/django2.0/so_docs/docs/views.py:29 - serverity: WARNING - message: file could not found: ssss
+mkdocs: date: 2021-08-27 17:49:14,549 - console - p2474 /root/django2.0/so_docs/docs/views.py:29 - serverity: WARNING - message: file could not found: favicon.ico
+mkdocs: date: 2021-08-27 19:32:35,081 - console - p2651 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: favicon.ico
+mkdocs: date: 2021-08-27 19:33:36,267 - console - p2669 /root/django2.0/so_docs/docs/views.py:30 - serverity: WARNING - message: file could not found: favicon.ico
+mkdocs: date: 2021-08-27 19:36:58,166 - console - p2693 /root/django2.0/so_docs/docs/views.py:68 - serverity: INFO - message: thuonghh in white list

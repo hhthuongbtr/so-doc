@@ -1,0 +1,7 @@
+Django==2.2.24
+django-cas-ng==4.0.1
+gunicorn==20.0.4
+mkdocs-material==7.2.5
+mkdocs-material-extensions==1.0.1
+mkdocs-pdf-export-plugin==0.5.8
+requests==2.26.0

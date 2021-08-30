@@ -1,0 +1,51 @@
+site_name: nopCommerce Docs
+site_url: http://docs.nopviet.com
+site_description: Tài liệu trang docs.nopviet.com | nopCommerce Việt Nam
+site_author: nopViet Team
+repo_url: http://nopviet.com
+repo_name: nopViet.com
+
+#theme_dir: material
+
+extra_css:
+  - css/extra.css
+
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  theme: 'material'
+    
+google_analytics:
+  - 'UA-39056872-8'
+  - 'auto'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 <a href="http://nopviet.com/" title="nopCommerce Vietnam Community"> nopViet | Cộng đồng nopCommerce Việt Nam</a>'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: "#"
+      # Xử lý ký tự "đ" khi tạo header id
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+pages:
+    - Giới thiệu: index.md
+    - Sử dụng nopCommerce: 
+      - Bắt đầu: about/about.md

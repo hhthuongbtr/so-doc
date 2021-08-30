@@ -1,0 +1,6 @@
+site_name: SO Docs
+# nav
+nav:
+        - Home: 'index.md'
+# Copyright
+copyright: 'Maintained by the Game Technical</br>powered by MkDocs and Material for MkDocs'
